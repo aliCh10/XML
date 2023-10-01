@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curriculum_vitae>
+  <informations_personnelles>
+    <nom>Ali Chlaifa</nom>
+    <adresse>
+      <rue> rue jamal eddine el afghani</rue>
+      <ville>mahdia</ville>
+      <code_postal>5100</code_postal>
+      <pays>mahdia</pays>
+    </adresse>
+    <email>alichlaifa66@email.com</email>
+    <téléphone>95338900</téléphone>
+    <immage>
+      Photo
+    </immage>
+  </informations_personnelles>
+  <éducation>
+  <diplome>
+    <titre>Bachelor en Science et Technologie</titre>
+    <date>2019</date>
+  </diplome>
+  <diplome>
+    <titre>License en Informatique Industrielle</titre>
+    <date>2021</date>
+  </diplome>
+</éducation>
+<experience>
+  <emploi>
+    <titre>Stagiaire en Informatique</titre>
+    <entreprise>Leema webtech</entreprise>
+    <lieu>Mahdia</lieu>
+    <dates>01/08/2023  31/08/2023</dates>
+  </emploi>   
+  </experience>
+  <compétences>
+    <compétence>HTML/CSS</compétence>
+    <compétence>JavaScript</compétence>
+    <compétence>PHP</compétence>
+    <compétence>Java</compétence>
+    <compétence>SQL</compétence>
+  </compétences>
+</curriculum_vitae>
